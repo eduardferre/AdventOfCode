@@ -28,7 +28,7 @@ The repository is organized by day, with each day having its own folder (`day_1`
 | --- | ------ | ------ |
 | 01  |   54940     |   54208     |
 | 02  |    2810    |    69110    |
-| 03  |        |        |
+| 03  |   533775     |  467835      |
 | 04  |        |        |
 | 05  |        |        |
 | 06  |        |        |
