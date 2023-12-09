@@ -31,7 +31,7 @@ The repository is organized by day, with each day having its own folder (`day_1`
 | 03  | 533775   | 467835   |
 | 04  | 22674    | 5747443  |
 | 05  | 57075758 | 31161857 |
-| 06  |          |          |
+| 06  | 3317888  | 24655068 |
 | 07  |          |          |
 | 08  |          |          |
 | 09  |          |          |
